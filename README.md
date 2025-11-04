@@ -59,9 +59,9 @@ Contient les **décorateurs** ajoutant dynamiquement des fonctionnalités :
    git clone https://github.com/ouss-issib/design-pattern-decorator-java.git
    ```
 2. Naviguer dans le répertoire du dépôt :
-```bash
+  ```bash
    cd design-pattern-decorator-java
-```  
+  ```  
 3. Compiler et exécuter les fichiers Java :
-```bash
- mvn clean install mvn javafx:run
+  ```bash
+   mvn clean install mvn javafx:run
