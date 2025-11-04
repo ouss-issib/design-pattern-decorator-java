@@ -4,7 +4,7 @@ public abstract class Boisson {
     protected String description;
 
     public String getDescription() {
-        return description;
+        return description ;
     }
 
     public abstract double cout();
